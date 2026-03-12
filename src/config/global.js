@@ -105,11 +105,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -117,7 +112,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01_123500.zip',
+        download: 'downloads/CFA1_123500_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -212,14 +207,12 @@ export default {
     {
       referencia:
         'Cardoso, M. y Poveda, N. (2021). <em>Diagnóstico Organizacional y Plan de Mejoramiento para la Microempresa Modas Milenio del municipio de La Mesa, Cundinamarca</em> [Trabajo de grado]. Universidad de Cundinamarca. ',
-      link:
-        'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/3761/Diagn%c3%b3stico%20organizacional%20y%20plan%20de%20mejoramiento%20para%20la%20microempresa%20modas%20milenio%20del%20municipio%20de%20La%20Mesa-%20Cundinamarca.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
         'Celaya, R., González, N., Ramírez, R. y Valenzuela, C. (2010). <em>Diagnóstico organizacional: una mirada hacia el futuro.</em> Instituto Tecnológico de Sonora [ITSON]. ',
-      link:
-        'https://www.itson.mx/publicaciones/pacioli/Documents/no70/43b-diagnostico_organizacional_una_mirada_hacia_el_futuro_noviembre_2010_corregido.pdf',
+      link: '',
     },
     {
       referencia:
@@ -236,8 +229,7 @@ export default {
     {
       referencia:
         'Gallardo, Y. y Moreno, A. (1999). <em>Aprender a Investigar. Módulo 3. Recolección de la Información.</em> ICFES. ',
-      link:
-        'https://www.unilibrebaq.edu.co/unilibrebaq/images/CEUL/mod3recoleccioninform.pdf',
+      link: '',
     },
     {
       referencia: 'Gerencie.com. (2022). <em>Sociedad Unipersonal.</em> ',
